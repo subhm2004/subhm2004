@@ -6,9 +6,7 @@
   </a>
 </h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subhm2004&label=Profile%20views&color=0e75b6&style=flat" alt="subhm2004" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhm2004&label=Profile%20views&color=0e75b6&style=flat" alt="subhm2004" /> </p>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,19 +14,18 @@
   </a>
 </div>
 
+
 <h5 align="center">
-  <code><a href="https://leetcode.com/u/subhu04012003/" title="LeetCode Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> LeetCode
-  </a></code>
+  <code><a href="https://leetcode.com/u/subhu04012003/" title="LeetCode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> LeetCode</a></code>
 </h5>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/subhu04012003?theme=dark&font=Crushed&ext=contest" alt="LeetCode Stats" />
-</p>
 
 - 🌱 I’m currently learning **System Design, Web Development, and Machine Learning**  
 
+
 - 👯 I’m looking to collaborate on **Unique Projects**
+
+
 
 - 💬 Ask me about **Python, C++, Java, JavaScript, React, HTML, CSS, and the MERN Stack (MongoDB, Express.js, React, Node.js)**
 
@@ -43,6 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shubham Malik Instagram" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -84,14 +82,17 @@
   </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhm2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhm2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhm2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhm2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/subhm2004/subhm2004/output/snake.svg" alt="Snake animation" />
 
-### <a><img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='25' /> **Here's some humor for you:** </a>
 
-<img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card" width='100%' />
+
+
+
+### <a><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='25' /> **Here's some humor for you:** </a>
+<img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
