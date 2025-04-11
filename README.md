@@ -1,4 +1,4 @@
-
+[
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subhm2004">
 
 <h1 align="center">
@@ -106,3 +106,4 @@ Feel free to ask me anything around **DSA**, **Backend Systems**, or **Frontend 
 ### <a><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='25' /> **Here's some humor for you:** </a>
 
 <img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
+](http://localhost:3000/)
