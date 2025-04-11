@@ -1,3 +1,5 @@
+---
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subhm2004" />
 
 <h1 align="center">
@@ -78,6 +80,12 @@ I'm always up for discussions on **DSA**, **Backend Systems**, or **Frontend Des
 
 ---
 
+### 📊 Shubhm's GitHub Activity
+
+[![Shubhm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhm2004&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 <img src="https://raw.githubusercontent.com/subhm2004/subhm2004/output/snake.svg" alt="Snake animation" />
 
 ---
@@ -85,4 +93,3 @@ I'm always up for discussions on **DSA**, **Backend Systems**, or **Frontend Des
 ### 😄 Here's Some Humor for You
 
 <img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
-
