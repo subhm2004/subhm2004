@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/subhu04012003/" title="LeetCode Profile">
+  <a href="https://leetcode.com/u/subhm2003/" title="LeetCode Profile">
     <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
     LeetCode
   </a>
