@@ -47,7 +47,7 @@ Enthusiastic about discussions related to **Data Structures & Algorithms**, **Ba
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
   <a href="https://www.snapchat.com/add/subhu_0401" target="_blank">
-    <img src="https://skillicons.dev/icons?i=snapchat&theme=light" alt="Snapchat" height="40" />
+    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="40" />
   </a>
 </p>
 
