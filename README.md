@@ -98,29 +98,21 @@ I'm **Shubham Malik**, a passionate **Full-Stack Developer** who loves turning i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhm2004&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+ 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhm2004&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhm2004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhm2004&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
 
 
 ---
+
+
 
 ## 🧩 LeetCode Stats
 
@@ -139,7 +131,5 @@ I'm **Shubham Malik**, a passionate **Full-Stack Developer** who loves turning i
 </p>
 
 ---
-
-
 
 <p align="center"><i>Thanks for visiting — let's build something great together! 🚀</i></p>
