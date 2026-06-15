@@ -99,15 +99,6 @@ I'm **Shubham Malik**, a passionate **Full-Stack Developer** who loves turning i
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
- 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhm2004&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 
 ---
