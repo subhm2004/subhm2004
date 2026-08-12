@@ -107,19 +107,11 @@ A **LangGraph-orchestrated** pipeline routing queries across 8 specialized subje
   <img src="https://leetcard.jacoblin.cool/subhm2003?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <b>Knight</b> · Max rating <b>2012</b> · Top 2% of 500K+ users<br/>
-  Ranked <b>435th</b> (Jan 2025) and <b>180th</b> (Feb 2025) among 30,000+ contest participants
-</p>
+
 
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhm2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhm2004&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhm2004&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -163,4 +155,4 @@ A **LangGraph-orchestrated** pipeline routing queries across 8 specialized subje
 
 ---
 
-<p align="center"><i>Currently looking for SDE-1 and backend roles. If you're hiring, I'd love to talk.</i></p>
+
