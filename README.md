@@ -26,17 +26,16 @@ Backend-focused software engineer and a 2026 Computer Engineering graduate from 
 
 I care about the part of a system that only shows up under load — the queue that backs up, the socket that drops, the query that was fine until it wasn't.
 
-- 🔧 Building distributed backends with **Node.js, TypeScript, Python** — microservices, message queues, real-time layers
-- 💼 Six months as an **SDE Intern at Jaggery Consulting**, building a SQL judge engine handling 500+ daily submissions at sub-200ms latency
-- 🧠 **LeetCode Knight — rating 2012**, top 2% of 500K+ users · 2000+ problems solved in C++
-- 📐 Currently going deep on **system design** and **agentic AI pipelines** (LangGraph, RAG, vector search)
-- 📫 Open to **SDE-1 / Backend / Full Stack** roles — reach me at **subhu04012003@gmail.com**
+- Building distributed backends with **Node.js, TypeScript, Python** — microservices, message queues, real-time layers
+- **LeetCode Knight — rating 2012**, top 2% of 500K+ users · 2000+ problems solved in C++
+- Currently going deep on **system design** and **agentic AI pipelines** (LangGraph, RAG, vector search)
+-  Open to **SDE-1 / Backend / Full Stack** roles — reach me at **subhu04012003@gmail.com**
 
 ---
 
 ## Featured Projects
 
-### 🍔 [ByteBites](https://github.com/subhm2004) — Production-Grade Food Delivery Platform
+### [ByteBites](https://github.com/subhm2004) — Production-Grade Food Delivery Platform
 A distributed system of **6 independent microservices** across Vercel and Render, serving 4 user roles through role-isolated APIs.
 - Async order processing over **RabbitMQ** on a Dockerized AWS EC2 instance
 - Sequential nearest-first rider dispatch using **MongoDB geoNear** with 10-second offer windows
@@ -44,7 +43,7 @@ A distributed system of **6 independent microservices** across Vercel and Render
 
 `Node.js` `TypeScript` `React` `MongoDB` `RabbitMQ` `Socket.IO` `Docker` `AWS EC2`
 
-### 📐 [SysDes](https://github.com/subhm2004) — High-Scale Architecture Simulator
+### [SysDes](https://github.com/subhm2004) — High-Scale Architecture Simulator
 A drag-and-drop LLD/HLD simulator with **30+ distributed system components**.
 - **Kahn's topological sort** drives real-time QPS propagation from 1K to 200K req/s with live bottleneck detection
 - 100-point scoring engine across 35 design problems
@@ -52,7 +51,7 @@ A drag-and-drop LLD/HLD simulator with **30+ distributed system components**.
 
 `Next.js` `React` `TypeScript` `React Flow` `Tailwind` `Gemini API`
 
-### 🤖 [IntellectA](https://github.com/subhm2004) — AI Multi-Agent Tutoring System
+### [IntellectA](https://github.com/subhm2004) — AI Multi-Agent Tutoring System
 A **LangGraph-orchestrated** pipeline routing queries across 8 specialized subject agents in under 1.5s.
 - Router → Scope Guard → Subject Agent flow with autonomous query routing
 - **RAG pipeline** on FastEmbed + pgvector with hybrid memory (Redis session cache + PostgreSQL history)
@@ -130,7 +129,7 @@ A **LangGraph-orchestrated** pipeline routing queries across 8 specialized subje
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://shubhammalik1.vercel.app" target="_blank">
