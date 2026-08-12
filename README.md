@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Shubham+Malik+%F0%9F%91%8B;Backend+Engineer+%7C+Node.js+%C2%B7+TypeScript+%C2%B7+Python;Microservices+%C2%B7+Distributed+Systems+%C2%B7+System+Design;LeetCode+Knight+%E2%80%94+Rating+2012+%C2%B7+Top+2%25+Globally" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Shubham+Malik+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Node.js+%C2%B7+TypeScript+%C2%B7+Python;Microservices+%C2%B7+Distributed+Systems+%C2%B7+System+Design;LeetCode+Knight+%E2%80%94+Rating+2012+%C2%B7+Top+2%25+Globally" alt="Typing SVG" />
 </h1>
 
 <p align="center">
